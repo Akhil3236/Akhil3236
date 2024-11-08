@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhil3236
 - 👀 I’m interested in machine learing,webDev
-- 🌱 I’m currently learning machine learing
+- 🌱 I’m currently learning machine leanring
 - 📫 How to reach me akhiltuluri123@gmail.com
 
 <!---
