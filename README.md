@@ -18,7 +18,6 @@ I turn ideas into production-ready solutions
 -  &nbsp; I’m looking to collaborate on Web Devlopement
 -  &nbsp; I’m currently learning Applied AI in web apps; 
 -  &nbsp; Most of my projects are available on [Github](https://github.com/Akhil3236?tab=repositories)
--  &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 
 -  &nbsp; Ask me about anything tech related, I am happy to [help](https://x.com/Code_ByAkhil);
 -  &nbsp; Checkout my [resume](https://www.akhiltuluri.site/Resume)
 <br>
