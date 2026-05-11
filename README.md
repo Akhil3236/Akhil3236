@@ -10,7 +10,7 @@ I turn ideas into production-ready solutions
 <br/>
 <br/>
 
-<p align="right">
+<p align="center">
   <img src="./coder.svg" width="300" />
 </p>
   
