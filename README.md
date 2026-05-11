@@ -10,7 +10,9 @@ I turn ideas into production-ready solutions
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<p align="right">
+  <img src="./coder.svg" width="300" />
+</p>
   
 ###  More About Me:
 
